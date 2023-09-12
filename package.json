@@ -1,0 +1,13 @@
+{
+    "name": "trexin-js-assessment",
+    "version": "1.0.0",
+    "author": "Ryan Baird",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "hamlet": "node index.js -hamlet"
+    },
+    "keywords": [],
+    "license": "ISC"
+}
