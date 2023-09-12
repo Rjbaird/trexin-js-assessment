@@ -5,8 +5,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "node index.js",
-        "hamlet": "node index.js -hamlet"
+        "start": "node index.js"
     },
     "keywords": [],
     "license": "ISC"

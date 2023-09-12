@@ -1,0 +1,12 @@
+File name: ./temp/hamlet.txt
+Number of lines: 4459
+Number of characters (total): 191725
+Number of letters: 130135
+Number of figures: 6
+Number of words: 47877
+Number of other characters: 61584
+Number of 1 letter words: 1274
+Number of 2 letters words: 5107
+[...]
+Number of 16 letters words: 9
+Number of 19 letters words: 0
